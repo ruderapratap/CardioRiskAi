@@ -1,0 +1,7 @@
+numPy
+Jupyter
+seaborn
+matplotlib
+Scikit-learn
+pillow
+joblib
