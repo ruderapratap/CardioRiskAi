@@ -1,7 +1,7 @@
-import pandas
-import numpy
-import joblib
-import matplotlib
-import seaborn
-import sklearn
-import streamlit
+streamlit
+pandas
+numpy
+joblib
+streamlit
+scikit-learn
+pillow
