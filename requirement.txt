@@ -5,3 +5,4 @@ matplotlib
 Scikit-learn
 pillow
 joblib
+!pip install joblib
