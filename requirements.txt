@@ -1,8 +1,7 @@
 numpy
-Jupyter
+jupyter
 seaborn
 matplotlib
-Scikit-learn
+scikit-learn
 pillow
 joblib
-!pip install joblib
